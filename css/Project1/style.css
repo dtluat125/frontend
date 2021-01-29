@@ -1,0 +1,22 @@
+#container {
+    background-color: lightgray;
+    width: 400px;
+    height: 800px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#child1 {
+    background-color: lightgreen;
+    width: 100px;
+    height: 100px;
+}
+
+#child2 {
+    background-color: lightseagreen;
+    width: 100px;
+    height: 100px;
+    align-self: center;
+    order: -1;
+    flex-grow: 1;
+}
