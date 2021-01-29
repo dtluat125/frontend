@@ -6,7 +6,7 @@
 
 .container {
     width: 100%;
-    background-color: rosybrown;
+    background-color: burlywood;
 }
 
 #header-img {
@@ -24,7 +24,7 @@
 #header {
     display: grid;
     grid-template-columns: 1fr;
-    background-color: whitesmoke;
+    background-color: lightyeallow;
     display: flex;
     justify-content: space-between;
     align-items: center;
