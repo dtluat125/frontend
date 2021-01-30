@@ -177,6 +177,12 @@ a {
     background-size: auto;
 }
 
+@media(max-width: 650px) {
+    #hobbies {
+        background-size: cover;
+    }
+}
+
 #hobbies img {
     width: 300px;
 }
