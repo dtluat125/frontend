@@ -41,7 +41,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-right: 10%;
 }
 
 @media (max-width: 650px) {
